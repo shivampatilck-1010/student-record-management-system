@@ -1,0 +1,5 @@
+101|Shivam Patil|CSE-2025-001|AI-ML|3|9.65
+102|Aarav Sharma|CSE-2025-014|CSE|3|8.9
+103|Priya Nair|CSE-2025-029|Data Science|3|9.25
+104|Rohan Deshmukh|CSE-2025-045|AI-ML|3|7.8
+105|Ananya Verma|CSE-2025-052|CSE|3|9.4
