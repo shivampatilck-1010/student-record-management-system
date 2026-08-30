@@ -113,7 +113,7 @@ Total Active Records: 5
 
 - Developer: Shivam Patil
 - Designation: Aspiring Software Engineer | CSE Undergraduate
-- Portfolio: https://shivam.dev
+- Portfolio: [https://shivam.dev](https://shivampatilck-1010.github.io/portfolio-website/)
 
 ---
 
